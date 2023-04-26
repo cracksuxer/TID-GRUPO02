@@ -1,3 +1,5 @@
 *.csv
 *.pkk
 data/*.csv
+pickled/*.pkl
+```
