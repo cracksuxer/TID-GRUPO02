@@ -1,5 +1,6 @@
 *.csv
 *.pkk
+.vscode/*
 data/*.csv
 pickled/*.pkl
 ```
